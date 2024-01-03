@@ -173,5 +173,5 @@ Here's how I did this in postman:
 .. image:: postman.gif
 
 in case of problem when certboting the conf file with daemon duplicate name
-solution <a href="https://stackoverflow.com/questions/39317200/name-duplicates-previous-wsgi-daemon-definition">here</a>
+solution here: https://stackoverflow.com/questions/39317200/name-duplicates-previous-wsgi-daemon-definition
 
